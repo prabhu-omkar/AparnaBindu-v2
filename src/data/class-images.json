@@ -1,0 +1,122 @@
+﻿{
+    "creeper":  [
+                    "/kolam_gallery/creeper/test_cowrangoli_0032.jpg",
+                    "/kolam_gallery/creeper/test_creeeper_lotus_flowers_pink_blue_violet_green.jpg",
+                    "/kolam_gallery/creeper/test_creeper_daisy_white_green_yellow.jpg",
+                    "/kolam_gallery/creeper/test_creeper_different_flower_design_outline.jpg",
+                    "/kolam_gallery/creeper/test_creeper_different_patterns_colourful.jpg",
+                    "/kolam_gallery/creeper/test_creeper_different_patterns_white_outline.jpg",
+                    "/kolam_gallery/creeper/test_creeper_flowers_petals_white_red.jpg",
+                    "/kolam_gallery/creeper/test_creeper_green_leaves_red_flowers.jpg"
+                ],
+    "peacock":  [
+                    "/kolam_gallery/peacock/test_cowrangoli_0014.jpg",
+                    "/kolam_gallery/peacock/test_kolam_0087.jpg",
+                    "/kolam_gallery/peacock/test_kolam_0105.jpg",
+                    "/kolam_gallery/peacock/test_kolam_0147.jpg",
+                    "/kolam_gallery/peacock/test_kolam_0179.jpg",
+                    "/kolam_gallery/peacock/test_kolam_0183 (2).jpg",
+                    "/kolam_gallery/peacock/test_kolam_0197 (2).jpg",
+                    "/kolam_gallery/peacock/test_kolam_0215 (2).jpg"
+                ],
+    "butterfly":  [
+                      "/kolam_gallery/butterfly/test_butterfly_black_outline_symmetry.jpg",
+                      "/kolam_gallery/butterfly/test_butterfly_black_outline_symmetry_flower_center.jpg",
+                      "/kolam_gallery/butterfly/test_butterfly_blue_flower_red_floor.jpg",
+                      "/kolam_gallery/butterfly/test_butterfly_blue_green_butterfly_leaf_tree.jpg",
+                      "/kolam_gallery/butterfly/test_butterfly_blue_orange_butterfly_peacock_dot.jpg",
+                      "/kolam_gallery/butterfly/test_butterfly_blue_pink_butterfly_bow_petal.jpg",
+                      "/kolam_gallery/butterfly/test_butterfly_detailed_blue_outline_yellow_flower_circle_white_edges.jpg",
+                      "/kolam_gallery/butterfly/test_butterfly_dual_green_blue_body_wings_brown_orange_floor.jpg"
+                  ],
+    "flower":  [
+                   "/kolam_gallery/flower/test_creeper_rangoli_0085.jpg",
+                   "/kolam_gallery/flower/test_flower_brown_floor.jpg",
+                   "/kolam_gallery/flower/test_flower_green_teracotta.jpg",
+                   "/kolam_gallery/flower/test_flower_lotus_circle_purple.jpg",
+                   "/kolam_gallery/flower/test_flower_orange_green_white.jpg",
+                   "/kolam_gallery/flower/test_flower_symmetric_blue.jpg",
+                   "/kolam_gallery/flower/test_flower_yellow_green_floor.jpg",
+                   "/kolam_gallery/flower/test_geometric_flower_lotus_leaf.jpg"
+               ],
+    "loops":  [
+                  "/kolam_gallery/loops/test_chikkurangoli_0055.jpg",
+                  "/kolam_gallery/loops/test_chikkurangoli_0065.jpg",
+                  "/kolam_gallery/loops/test_chikkurangoli_0069.jpg",
+                  "/kolam_gallery/loops/test_chikkurangoli_0081.jpg",
+                  "/kolam_gallery/loops/test_creeper_rangoli_0105.jpg",
+                  "/kolam_gallery/loops/test_creeper_rangoli_0110.jpg",
+                  "/kolam_gallery/loops/test_creeper_rangoli_0123.jpg",
+                  "/kolam_gallery/loops/test_creeper_rangoli_0130.jpg"
+              ],
+    "fish":  [
+                 "/kolam_gallery/fish/test_fish_blue_lotus.jpg",
+                 "/kolam_gallery/fish/test_fish_blue_lotus_circle_yellow.jpg",
+                 "/kolam_gallery/fish/test_fish_colourful_heart_flower.jpg",
+                 "/kolam_gallery/fish/test_fish_cyan.jpg",
+                 "/kolam_gallery/fish/test_fish_darkbrown_background.jpg",
+                 "/kolam_gallery/fish/test_fish_flower_blue_orange.jpg",
+                 "/kolam_gallery/fish/test_fish_flower_drawing.jpg",
+                 "/kolam_gallery/fish/test_fish_four.jpg"
+             ],
+    "cow":  [
+                "/kolam_gallery/cow/test_cow_blue_green_circle_flowers_lotus_pink.jpg",
+                "/kolam_gallery/cow/test_cow_blue_orange_cow_pongal_god.jpg",
+                "/kolam_gallery/cow/test_cow_blue_red_cow_sacred_kalash.jpg",
+                "/kolam_gallery/cow/test_cow_blue_white_cow_elephant_creeper.jpg",
+                "/kolam_gallery/cow/test_cow_blue_white_cow_god_shiva.jpg",
+                "/kolam_gallery/cow/test_cow_blue_white_cow_harvest_pongal.jpg",
+                "/kolam_gallery/cow/test_cow_blue_white_cow_petal_pongal.jpg",
+                "/kolam_gallery/cow/test_cow_blue_yellow_cow_pongal_kalash.jpg"
+            ],
+    "kambi":  [
+                  "/kolam_gallery/kambi/test_geometric_square_white_pots_outline.jpg",
+                  "/kolam_gallery/kambi/test_geometric_star_green_border.jpg",
+                  "/kolam_gallery/kambi/test_geometric_white_flower_pointed_edges.jpg",
+                  "/kolam_gallery/kambi/test_kolam_0026 (3).jpg",
+                  "/kolam_gallery/kambi/test_kolam_0058 (4).jpg",
+                  "/kolam_gallery/kambi/test_kolam_0086 (3).jpg",
+                  "/kolam_gallery/kambi/test_kolam_0145 (4).jpg",
+                  "/kolam_gallery/kambi/test_kolam_0149 (3).jpg"
+              ],
+    "elephant":  [
+                     "/kolam_gallery/elephant/test_elepahnt_yellow_green_cyan_purple_round_ganesh.jpg",
+                     "/kolam_gallery/elephant/test_elephahnt_white_brown_dots_kolam.jpg",
+                     "/kolam_gallery/elephant/test_elephant_balck_red_yellow_raised.jpg",
+                     "/kolam_gallery/elephant/test_elephant_balck_white_head_rhombic_pattern.jpg",
+                     "/kolam_gallery/elephant/test_elephant_black_white_ganesh_om_haar_spiral_lotus.jpg",
+                     "/kolam_gallery/elephant/test_elephant_brown_doorthreshold_kolam.jpg",
+                     "/kolam_gallery/elephant/test_elephant_cyan_yellow_ganesh.jpg",
+                     "/kolam_gallery/elephant/test_elephant_dots_black_white.jpg"
+                 ],
+    "geometric":  [
+                      "/kolam_gallery/geometric/test_geometric_spiral_green_lue_white_diamonds_edges.jpg",
+                      "/kolam_gallery/geometric/test_kolam_0005 (2).jpg",
+                      "/kolam_gallery/geometric/test_kolam_0010 (2).jpg",
+                      "/kolam_gallery/geometric/test_kolam_0011 (2).jpg",
+                      "/kolam_gallery/geometric/test_kolam_0014 (2).jpg",
+                      "/kolam_gallery/geometric/test_kolam_0017 (2).jpg",
+                      "/kolam_gallery/geometric/test_kolam_0019 (2).jpg",
+                      "/kolam_gallery/geometric/test_kolam_0021.jpg"
+                  ],
+    "footprint":  [
+                      "/kolam_gallery/footprint/test_footprint_blue_yellow_red_dot.jpg",
+                      "/kolam_gallery/footprint/test_footprint_purple_red_yellow_dot.jpg",
+                      "/kolam_gallery/footprint/test_footprint_white_outline_red_yellow_blue.jpg",
+                      "/kolam_gallery/footprint/test_footprintrangoli_0017 (2).jpg",
+                      "/kolam_gallery/footprint/test_footprintrangoli_0018.jpg",
+                      "/kolam_gallery/footprint/test_footprintrangoli_0019.jpg",
+                      "/kolam_gallery/footprint/test_footprintrangoli_0027 (2).jpg",
+                      "/kolam_gallery/footprint/test_footprintrangoli_0028.jpg"
+                  ],
+    "om":  [
+               "/kolam_gallery/om/test_kolam_0001 (2).jpg",
+               "/kolam_gallery/om/test_kolam_0018 (2).jpg",
+               "/kolam_gallery/om/test_kolam_0020 (4).jpg",
+               "/kolam_gallery/om/test_kolam_0021 (2).jpg",
+               "/kolam_gallery/om/test_kolam_0031 (2).jpg",
+               "/kolam_gallery/om/test_kolam_0043.jpg",
+               "/kolam_gallery/om/test_kolam_0052.jpg",
+               "/kolam_gallery/om/test_kolam_0082 (2).jpg"
+           ]
+}
