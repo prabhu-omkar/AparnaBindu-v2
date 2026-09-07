@@ -12,26 +12,6 @@ A computational platform dedicated to preserving and exploring traditional South
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Deep Learning Architecture](#deep-learning-architecture)
-- [Model Evaluation & Insights](#model-evaluation--insights)
-- [The 12 Kolam Categories](#the-12-kolam-categories)
-- [Interactive Kolam Designer](#interactive-kolam-designer)
-- [System Architecture](#system-architecture)
-- [Tech Stack](#tech-stack)
-- [Repository Structure](#repository-structure)
-- [Installation and Setup](#installation-and-setup)
-- [Inference API Reference](#inference-api-reference)
-- [Docker Deployment](#docker-deployment)
-- [Ethnomathematics of Kolam](#ethnomathematics-of-kolam)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Overview
 
 Aparna Bindu v2 is an end-to-end research and design platform created to safeguard, catalog, and analyze traditional South Indian Kolam patterns (also known as Rangoli or Muggu). Practiced daily as an auspicious threshold tradition, Kolam embodies formal geometric properties, rotational symmetry, array grammars, and knot topology.
@@ -296,18 +276,6 @@ Kolam represents one of the world's oldest continuous traditions of ethnomathema
 1. **Formal Array Grammars**: Computer scientists have demonstrated that Kolams can be generated via 2D extensions of Chomsky grammars (Kolam Array Grammars), proving that traditional artists intuitively apply recursive syntactic rules.
 2. **Eulerian Circuits**: Sikku patterns adhere to graph theory constraints where an unbroken line traces every edge of an underlying planar graph without retraversing any segment.
 3. **Symmetry Group Invariance**: Traditional motifs systematically explore dihedral groups (D2, D4) and cyclic groups (C2, C4), creating ideal benchmarks for evaluating rotational equivariance in computer vision algorithms.
-
----
-
-## Contributing
-
-Contributions to Aparna Bindu v2 are welcome. Whether you wish to contribute new training imagery, improve canvas designer ergonomics, or optimize inference speed:
-
-1. Fork the repository.
-2. Create a dedicated feature branch (`git checkout -b feature/NewFeature`).
-3. Commit your modifications (`git commit -m 'feat: introduce new feature'`).
-4. Push your branch to GitHub (`git push origin feature/NewFeature`).
-5. Submit a descriptive Pull Request.
 
 ---
 
